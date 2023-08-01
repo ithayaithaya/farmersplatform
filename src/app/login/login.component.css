@@ -1,0 +1,11 @@
+
+.container{
+    /* background: linear-gradient(to right bottom, #333399, #ff00cc ); */
+    background-repeat: no-repeat;
+}
+.content{
+    height: 100vh;
+}
+.bi{
+    padding: 10px;
+}
